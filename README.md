@@ -45,7 +45,7 @@ I'm a Full-Stack Engineer.
  </a> <a href="mailto:prajakta12wankhede@gmail.com">
   <img src="https://camo.githubusercontent.com/ca2a7f64bc002de89fbbaa7e64cf99212eb4284cd1dc914bd2436dab6cdb536c/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f676d61696c2d69636f6e2d322e737667" title="Gmail" alt="Gmail Account" width="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" style="max-width: 100%;">
 </a>
- <a href="https://github.com/prajakta1205" rel="nofollow">
+ <a href="https://twitter.com/PrajaktaS_" rel="nofollow">
   <img src="https://camo.githubusercontent.com/4a42c13938570082893d5b6b2c9e76529a5ac4c238c7bac2e98ee842d6503bed/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f747769747465722d362e737667" title="Twitter" alt="Twitter Account" width="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" style="max-width: 100%;">
 <a href="https://www.linkedin.com/in/prajakta1205/" rel="nofollow">
   <img src="https://camo.githubusercontent.com/82ab6b41b25758ca65942c3c2adb86622cf01a43a8011005c29cbd69089854a6/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6c696e6b6564696e2d69636f6e2d322e737667" title="Linkedin" alt="Linkedin Account" width="30" data-canonical-src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" style="max-width: 100%;">
