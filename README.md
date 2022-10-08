@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 I'm a Full-Stack Engineer.
 <hr/>
 
- 🔭 I’m currently working on React application <a href="https://github.com/prajakta1205/Clothing-Crwn">ClothingCrwn</a>
+ 🔭 I’m currently working on React,Vue and Typescript application 
  
- 🌱 I’m currently learning React,Vue and Next
+ <!--🌱 I’m currently learning React,Vue and Next -->
  
  👯 I’m looking to collaborate on <a href="https://github.com/">GitHub</a>
  
