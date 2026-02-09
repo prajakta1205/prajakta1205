@@ -46,7 +46,7 @@ On the frontend, I work with **JavaScript, TypeScript, and React**, including **
 
 ---
 
-### 🏗 Selected Experience Highlights
+### 🏗 Experience Highlights
 
 - Designed and developed **.NET 9 microservices** integrated with Flutter and React frontends  
 - Built **cloud-native APIs** using Azure Functions, Service Bus, and messaging queues  
