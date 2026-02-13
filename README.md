@@ -16,6 +16,14 @@ On the frontend, I work with **JavaScript, TypeScript, and React**, including **
 
 ---
 
+### 🌐 Connect With Me
+
+- 📧 Email: **prajakta_12@ymail.com**
+- 💼 LinkedIn: [linkedin.com/in/prajakta1205](https://www.linkedin.com/in/prajakta1205/)
+- 🐦 X: [@Prajakta1205_](https://x.com/Prajakta1205_)
+
+---
+
 ### 🔧 What I Work With
 
 **Backend & Architecture**
@@ -57,12 +65,6 @@ On the frontend, I work with **JavaScript, TypeScript, and React**, including **
 
 ---
 
-### 🌐 Connect With Me
 
-- 📧 Email: **prajakta12wankhede@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/prajakta1205](https://www.linkedin.com/in/prajakta1205/)
-- 🐦 Twitter: [@PrajaktaS_](https://twitter.com/PrajaktaS_)
-
----
 
 ☕ *Engineering scalable systems with clarity and care.*
